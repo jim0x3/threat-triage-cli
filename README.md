@@ -33,3 +33,5 @@ SHODAN_API_KEY=<API_KEY>
 ```
 
 ## Example
+
+https://github.com/user-attachments/assets/a25ccc85-72b3-4d70-907e-5ece6c838808
