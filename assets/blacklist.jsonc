@@ -1,0 +1,9 @@
+// This file contains a list of IP addresses that are blacklisted.
+// I extracted this list from `/var/log/auth.log` on my VPSserver, which contains failed login attempts.
+
+[
+"101.100.194.252",
+"101.34.204.115",
+"101.96.202.189"
+// etc...
+]
