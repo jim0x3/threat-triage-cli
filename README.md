@@ -2,10 +2,6 @@
 
 **Mazey** is an early-stage CLI reconnaissance tool for threat triage. It takes _inbound noise_ such as automated scans, bots, misconfigured devices and enriches them using various threat intelligence API's like Virus Total, Shodan, etc...
 
-## Why the name?
-
-`Mazey` is named in tribute to my cat. This is a personal project with long-term goals! 🐈
-
 ## Tech stack
 
 - Go (Golang) for the CLI application
