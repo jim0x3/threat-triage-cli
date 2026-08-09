@@ -5,8 +5,8 @@
 ## Tech stack
 
 - Go (Golang) for the CLI application
-- go-fuzzyfinder for interactive selection in the terminal
-- Various threat intelligence APIs for data enrichment (e.g., Virus Total, Shodan)
+- [go-fuzzyfinder](https://github.com/ktr0731/go-fuzzyfinder) for interactive selection in the terminal
+- Various threat intelligence APIs for data enrichment (e.g., [Virus Total](https://www.virustotal.com/), [Shodan](https://www.shodan.io/))
 
 ## Usage
 
