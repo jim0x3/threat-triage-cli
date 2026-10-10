@@ -9,21 +9,18 @@
 - [go-fuzzyfinder](https://github.com/ktr0731/go-fuzzyfinder) for interactive selection in the terminal
 - Various threat intelligence APIs for data enrichment (e.g., [Virus Total](https://www.virustotal.com/), [Shodan](https://www.shodan.io/))
 
-## Usage
+## Usage & Examples
 
-```shell
-<APP> <COMMAND> <ARGUMENT>
-```
+### `blacklist [COUNT]`
+Interactively browse and select an IP address from a list to view its threat intelligence report.
 
-## Commands
+### `ipreport <IP_ADDRESS>`
+Directly fetch a threat intelligence report for a specific IP address.
 
-- `blacklist [COUNT]` Shows a list of IP addresses using the `go-fuzzyfinder` library to allow the user to select an IP from the list
-- `ipreport <IP_ADDRESS>` Show a report for a specific IP address
-- `filereport <FILE_HASH>` Show a report for a specific file hash
-
+### `filereport <FILE_HASH>` 
+Show a report for a specific file hash
 
 ## Set environment variables
-
 ```bash
 VT_API_KEY=<API_KEY>
 SHODAN_API_KEY=<API_KEY>
