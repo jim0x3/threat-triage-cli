@@ -17,10 +17,6 @@ Interactively browse and select an IP address from a list to view its threat int
 `ipreport <IP_ADDRESS>`
 Directly fetch a threat intelligence report for a specific IP address.
 
-https://github.com/user-attachments/assets/307008c1-a27d-4a7a-b15d-78fed9d8cc86
-
-
-
 `filereport <FILE_HASH>` 
 Show a report for a specific file hash
 
@@ -33,4 +29,3 @@ SHODAN_API_KEY=<API_KEY>
 ## Example
 
 https://github.com/user-attachments/assets/59ec4678-321d-4b6e-9fb2-cabba43411b2
-
