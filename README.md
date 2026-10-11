@@ -11,13 +11,13 @@
 
 ## Usage & Examples
 
-### `blacklist [COUNT]`
+`blacklist [COUNT]`
 Interactively browse and select an IP address from a list to view its threat intelligence report.
 
-### `ipreport <IP_ADDRESS>`
+`ipreport <IP_ADDRESS>`
 Directly fetch a threat intelligence report for a specific IP address.
 
-### `filereport <FILE_HASH>` 
+`filereport <FILE_HASH>` 
 Show a report for a specific file hash
 
 ## Set environment variables
